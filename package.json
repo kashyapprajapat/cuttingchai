@@ -1,0 +1,23 @@
+{
+    "name": "cuttingchai",
+    "version": "1.0.0",
+    "description": "A custom programming language compiler top of the javascript. known as cuttingchai☕🫖",
+    "main": "lib/compiler.js",
+    "bin": {
+        "chai": "bin/chai.js"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+      "chai",
+      "language",
+      "desi",
+      "programming"
+    ],
+    "author": "kashyap",
+    "license": "ISC",
+    "directories": {
+        "lib": "lib"
+    }
+}
