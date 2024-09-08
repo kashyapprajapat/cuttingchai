@@ -237,3 +237,12 @@ chai example.chai
 ```
 
 Enjoy coding with **CuttingChai! 🍵**
+
+## For Devloper 
+
+--- open to accept any pull request
+
+**Refferance Link**
+--- Resources and Articles
+https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/
+https://hackernoon.com/building-your-own-programming-language-from-scratch
