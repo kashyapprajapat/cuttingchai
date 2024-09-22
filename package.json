@@ -1,6 +1,6 @@
 {
     "name": "cuttingchai",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "A custom programming language compiler top of the javascript. known as cuttingchai☕🫖",
     "main": "lib/compiler.js",
     "bin": {
