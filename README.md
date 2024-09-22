@@ -22,7 +22,9 @@ This will install the cuttingchai compiler 🫖 globally on your system, making 
 ## To Increase Productivity Download vs Code Extension
 [vscodeExtension](https://marketplace.visualstudio.com/items?itemName=cuttingchai.cuttingchai)
 
-![vsextensionImage](vsextension.png)
+
+![VS Code Extension](https://res.cloudinary.com/dpf5bkafv/image/upload/v1726985708/t3m4pl52saddolq73mqk.png)
+
 
 -----------------
 
