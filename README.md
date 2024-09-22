@@ -19,6 +19,11 @@ npm install -g cuttingchai
 
 This will install the cuttingchai compiler 🫖 globally on your system, making the chai command available anywhere in your terminal.
 
+## To Increase Productivity Download vs Code Extension
+[vscodeExtension](https://marketplace.visualstudio.com/items?itemName=cuttingchai.cuttingchai)
+[VsCodeExtension Source Code](https://github.com/kashyapprajapat/cuttingchai-)
+
+
 **--------------------------------------------------------------------------------------**
 ## Usage
 After installing, you can create `.chai` files, which are cuttingchai scripts, and run them using the CLI.
